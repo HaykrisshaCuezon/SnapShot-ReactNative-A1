@@ -4,9 +4,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![HitCount](http://hits.dwyl.com/Yog9/SnapShot.svg)](http://hits.dwyl.com/Yog9/SnapShot)
 
-[Demo of Snap Shot](https://yog9.github.io/SnapShot/)
+#### Sample Snap Shot Web Capture
+![Web capture_2-12-2021_63339_localhost](https://user-images.githubusercontent.com/85544987/144325012-7f7ccfe6-1fe3-4b80-8d8b-556877188bd2.jpeg)
 
-![](/snapscout.png)
 
 ### Summary
 
